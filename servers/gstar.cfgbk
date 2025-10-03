@@ -1,0 +1,7 @@
+define host {
+    use			linux-server
+    host_name		Gstar
+    alias		Green Star
+    address		gstar.dyndns-server.com
+}
+
